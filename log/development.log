@@ -272,3 +272,103 @@ Started GET "/error" for 127.0.0.1 at 2013-06-11 11:45:18 +0200
 Processing by ErrorController#index as HTML
   Rendered error/index.html.erb within layouts/application (0.6ms)
 Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/error" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+Processing by ErrorController#index as HTML
+  Rendered error/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 99ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/error.css?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/assets/maintenance.css?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/assets/error.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/assets/maintenance.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:52 +0200
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+Processing by MaintenanceController#index as HTML
+  Rendered maintenance/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/error.css?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/assets/maintenance.css?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/assets/error.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/assets/maintenance.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-11 13:13:58 +0200
+
+
+Started GET "/error" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+Processing by ErrorController#index as HTML
+  Rendered error/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/error.css?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+
+
+Started GET "/assets/maintenance.css?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+
+
+Started GET "/assets/error.js?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+
+
+Started GET "/assets/maintenance.js?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
