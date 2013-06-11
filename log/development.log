@@ -372,3 +372,4 @@ Started GET "/assets/maintenance.js?body=1" for 127.0.0.1 at 2013-06-11 13:14:02
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-11 13:14:02 +0200
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
